@@ -17,3 +17,6 @@
   * [3Blue1Brown: Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
   * [MIT 18.06 Linear Algebra, Spring 2005](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
  
+## Computer Science
+ * Cryptography
+   * [Introduction to Cryptography by Christof Paar](https://www.youtube.com/@introductiontocryptography4223/videos)
