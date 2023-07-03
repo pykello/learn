@@ -28,6 +28,8 @@
   * [MIT 18.781, Theory of Numbers (No Videos)](https://ocw.mit.edu/courses/18-781-theory-of-numbers-spring-2012/)
   * [MIT 18.782, Introduction to Arithmetic Geometry (No Videos)](https://ocw.mit.edu/courses/18-782-introduction-to-arithmetic-geometry-fall-2013/)
   * [MIT 18.783, Elliptic Curves (No Videos)](https://ocw.mit.edu/courses/18-783-elliptic-curves-spring-2021/)
+* Combinatorics
+  * [MIT 18.212, Algebraic Combinatorics](https://ocw.mit.edu/courses/18-212-algebraic-combinatorics-spring-2019/)
  
 ## Computer Science
  * Cryptography, Security, ...
