@@ -20,6 +20,7 @@
 * Abstract Algebra
   * [Mathemaniac: Essence of Group Theory](https://www.youtube.com/playlist?list=PLDcSwjT2BF_VuNbn8HiHZKKy59SgnIAeO)
   * [Harvard Abstract Algebra](https://www.youtube.com/playlist?list=PLelIK3uylPMGzHBuR3hLMHrYfMqWWsmx5)
+  * [MIT 18.703, Modern Algebra (No Videos)](https://ocw.mit.edu/courses/18-703-modern-algebra-spring-2013/)
   * 3Blue1Brown
     * [Group theory, abstraction, and the 196,883-dimensional monster](https://youtu.be/mH0oCDa74tE)
     * [Euler's formula with introductory group theory](https://youtu.be/mvmuCPvRoWQ)
