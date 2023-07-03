@@ -24,6 +24,10 @@
   * 3Blue1Brown
     * [Group theory, abstraction, and the 196,883-dimensional monster](https://youtu.be/mH0oCDa74tE)
     * [Euler's formula with introductory group theory](https://youtu.be/mvmuCPvRoWQ)
+* Number Theory
+  * [MIT 18.781, Theory of Numbers (No Videos)](https://ocw.mit.edu/courses/18-781-theory-of-numbers-spring-2012/)
+  * [MIT 18.782, Introduction to Arithmetic Geometry (No Videos)](https://ocw.mit.edu/courses/18-782-introduction-to-arithmetic-geometry-fall-2013/)
+  * [MIT 18.783, Elliptic Curves (No Videos)](https://ocw.mit.edu/courses/18-783-elliptic-curves-spring-2021/)
  
 ## Computer Science
  * Cryptography, Security, ...
