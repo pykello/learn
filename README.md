@@ -14,6 +14,7 @@
   * [3Blue1Brown: Differential equations](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6)
 * Analysis
    * [MIT 18.100A Real Analysis, Fall 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw)
+   * [Complex Analysis, A Visual and Interactive Introduction](https://complex-analysis.com/)
 * Linear Algera
   * [3Blue1Brown: Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
   * [MIT 18.06 Linear Algebra, Spring 2005](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
