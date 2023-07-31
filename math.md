@@ -17,7 +17,7 @@
    * [Complex Analysis, A Visual and Interactive Introduction](https://complex-analysis.com/)
 * Probability & Statistics
    * [Probability Theory: Logic of Science](https://www.youtube.com/playlist?list=PL9v9IXDsJkktefQzX39wC2YG07vw7DsQ_)
-   * [استنتاج آماری در عصر رایانه](https://ocw.sharif.edu/course/id/186/%D8%AF%D8%A7%D9%86%D8%B4%DA%A9%D8%AF%D9%87-%D8%B9%D9%84%D9%88%D9%85-%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C/%D8%A7%D8%B3%D8%AA%D9%86%D8%AA%D8%A7%D8%AC-%D8%A2%D9%85%D8%A7%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%B9%D8%B5%D8%B1-%D8%B1%D8%A7%DB%8C%D8%A7%D9%86%D9%87.html)
+   * [Sharif OCW: استنتاج آماری در عصر رایانه](https://ocw.sharif.edu/course/id/186/%D8%AF%D8%A7%D9%86%D8%B4%DA%A9%D8%AF%D9%87-%D8%B9%D9%84%D9%88%D9%85-%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C/%D8%A7%D8%B3%D8%AA%D9%86%D8%AA%D8%A7%D8%AC-%D8%A2%D9%85%D8%A7%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%B9%D8%B5%D8%B1-%D8%B1%D8%A7%DB%8C%D8%A7%D9%86%D9%87.html)
 * Linear Algera
   * [3Blue1Brown: Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
   * [MIT 18.06 Linear Algebra, Spring 2005](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
