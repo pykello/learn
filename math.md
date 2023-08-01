@@ -15,6 +15,7 @@
 * Analysis
    * [MIT 18.100A Real Analysis, Fall 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw)
    * [Complex Analysis, A Visual and Interactive Introduction](https://complex-analysis.com/)
+   * [Measure Theory](https://www.youtube.com/playlist?list=PLo4jXE-LdDTQq8ZyA8F8reSQHej3F6RFX)
 * Probability & Statistics
    * [Probability Theory: Logic of Science](https://www.youtube.com/playlist?list=PL9v9IXDsJkktefQzX39wC2YG07vw7DsQ_)
    * [Sharif OCW: استنتاج آماری در عصر رایانه](https://ocw.sharif.edu/course/id/186/%D8%AF%D8%A7%D9%86%D8%B4%DA%A9%D8%AF%D9%87-%D8%B9%D9%84%D9%88%D9%85-%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C/%D8%A7%D8%B3%D8%AA%D9%86%D8%AA%D8%A7%D8%AC-%D8%A2%D9%85%D8%A7%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%B9%D8%B5%D8%B1-%D8%B1%D8%A7%DB%8C%D8%A7%D9%86%D9%87.html)
