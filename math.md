@@ -35,3 +35,4 @@
   * [MIT 18.783, Elliptic Curves (No Videos)](https://ocw.mit.edu/courses/18-783-elliptic-curves-spring-2021/)
 * Combinatorics
   * [MIT 18.212, Algebraic Combinatorics](https://ocw.mit.edu/courses/18-212-algebraic-combinatorics-spring-2019/)
+  * Book: [Algebraic and geometric methods in enumerative combinatorics](https://www-users.cse.umn.edu/~reiner/Classes/Ardila_handbook_chapter.pdf)
