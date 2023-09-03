@@ -39,3 +39,5 @@
 * Combinatorics
   * [MIT 18.212, Algebraic Combinatorics](https://ocw.mit.edu/courses/18-212-algebraic-combinatorics-spring-2019/)
   * Book: [Algebraic and geometric methods in enumerative combinatorics](https://www-users.cse.umn.edu/~reiner/Classes/Ardila_handbook_chapter.pdf)
+* Geometry
+  * [An Elementary Treatise on Pure Geometry with Numerous Examples](https://archive.org/details/anelementarytre02russgoog)
