@@ -2,3 +2,5 @@
 * [Purdue Problem of the Week](https://www.math.purdue.edu/pow2/)
 * [Nick's Mathematical Puzzles](http://web.archive.org/web/20060207013213/www.qbyte.org/puzzles/)
 * [Berkeley Math Tournament](https://bmt.berkeley.edu/archive/)
+* [Leigh Math Contests](https://www.lehigh.edu/~dmd1/oldcontests.html)
+* [Australian Math Society Gazzete](https://austms.org.au/publications/gazette/gazette-past-issues/)
