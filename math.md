@@ -43,3 +43,4 @@
   * [Introduction to Order Theory](https://piotrmicek.staff.tcs.uj.edu.pl/introduction-to-order-theory-2020/)
 * Geometry
   * [An Elementary Treatise on Pure Geometry with Numerous Examples](https://archive.org/details/anelementarytre02russgoog)
+  * [ Topology, Manifolds & Differential Geometry ](https://www.youtube.com/playlist?list=PLxBAVPVHJPcrNrcEBKbqC_ykiVqfxZgNl)
