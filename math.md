@@ -22,6 +22,8 @@
    * [Sharif OCW: استنتاج آماری در عصر رایانه](https://ocw.sharif.edu/course/id/186/%D8%AF%D8%A7%D9%86%D8%B4%DA%A9%D8%AF%D9%87-%D8%B9%D9%84%D9%88%D9%85-%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C/%D8%A7%D8%B3%D8%AA%D9%86%D8%AA%D8%A7%D8%AC-%D8%A2%D9%85%D8%A7%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%B9%D8%B5%D8%B1-%D8%B1%D8%A7%DB%8C%D8%A7%D9%86%D9%87.html)
    * [MATH 345 - Probability](https://stats.libretexts.org/Courses/Saint_Mary's_College_Notre_Dame/MATH_345__-_Probability_(Kuter))
    * [MIT RES.6-012 Introduction to Probability, Spring 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
+   * [Martingale Theory](https://www.youtube.com/playlist?list=PLmsGGxFhM5bw4ZGTx_GKxNhDyA8S3zi6i)
+   * [Markov Chains](https://www.youtube.com/playlist?list=PLmsGGxFhM5bw8yWvgJTEyJCy9Ku_2f6BS)
 * Linear Algera
   * [3Blue1Brown: Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
   * [MIT 18.06 Linear Algebra, Spring 2005](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
