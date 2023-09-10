@@ -44,3 +44,5 @@
 * Geometry
   * [An Elementary Treatise on Pure Geometry with Numerous Examples](https://archive.org/details/anelementarytre02russgoog)
   * [ Topology, Manifolds & Differential Geometry ](https://www.youtube.com/playlist?list=PLxBAVPVHJPcrNrcEBKbqC_ykiVqfxZgNl)
+  * [Topology & Geometry](https://www.youtube.com/playlist?list=PLTBqohhFNBE_09L0i-lf3fYXF5woAbrzJ)
+
