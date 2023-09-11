@@ -43,6 +43,7 @@
   * [MIT 18.212, Algebraic Combinatorics](https://ocw.mit.edu/courses/18-212-algebraic-combinatorics-spring-2019/)
   * Book: [Algebraic and geometric methods in enumerative combinatorics](https://www-users.cse.umn.edu/~reiner/Classes/Ardila_handbook_chapter.pdf)
   * [Introduction to Order Theory](https://piotrmicek.staff.tcs.uj.edu.pl/introduction-to-order-theory-2020/)
+  * [Applied Combinatorics](https://www.appliedcombinatorics.org/book/app-comb.html)
 * Geometry, Topology, ...
   * [An Elementary Treatise on Pure Geometry with Numerous Examples](https://archive.org/details/anelementarytre02russgoog)
   * [ Topology, Manifolds & Differential Geometry ](https://www.youtube.com/playlist?list=PLxBAVPVHJPcrNrcEBKbqC_ykiVqfxZgNl)
