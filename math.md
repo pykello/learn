@@ -51,4 +51,9 @@
   * [ Algebraic Topology - Pierre Albin ](https://www.youtube.com/playlist?list=PLpRLWqLFLVTCL15U6N3o35g4uhMSBVA2b)
   * [Algebraic Topology - NJ Wildberger](https://www.youtube.com/playlist?list=PL6763F57A61FE6FE8)
   * [Clay Math 2010](https://www.youtube.com/playlist?list=PL0767A09CF0864F8A)
+  * [MIT 18.900 Geometry And Topology In The Plane](https://ocw.mit.edu/courses/18-900-geometry-and-topology-in-the-plane-spring-2023/)
+  * [MIT 18.901 Introduction to Topology](https://ocw.mit.edu/courses/18-901-introduction-to-topology-fall-2004/)
+  * [MIT 6.849 Geometric Folding Algorithms: Linkages, Origami, Polyhedra](https://ocw.mit.edu/courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/)
+  * [MIT 2.158J Computational Geometry](https://ocw.mit.edu/courses/2-158j-computational-geometry-spring-2003/)
+  * [MIT 18.727 Algebraic Geometry](https://ocw.mit.edu/courses/18-726-algebraic-geometry-spring-2009/)
  
