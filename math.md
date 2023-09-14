@@ -4,6 +4,7 @@
   * [coursera: Mathematics for Engineers](https://www.coursera.org/specializations/mathematics-engineers)
   * [coursera: Introduction to Discrete Mathematics for Computer Science](https://www.coursera.org/specializations/discrete-mathematics)
   * [math.stackexchange.com: Best Sets of Lecture Notes and Articles](https://math.stackexchange.com/questions/302023/best-sets-of-lecture-notes-and-articles)
+  * [Ivan Matic](https://imomath.com/bmath/index.cgi)
 * Calculus
   * [MIT 18.01 Single Variable Calculus, Fall 2006](https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1)
   * [MIT 18.02 Multivariable Calculus, Fall 2007](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38)
