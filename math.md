@@ -45,6 +45,7 @@
   * Book: [Algebraic and geometric methods in enumerative combinatorics](https://www-users.cse.umn.edu/~reiner/Classes/Ardila_handbook_chapter.pdf)
   * [Introduction to Order Theory](https://piotrmicek.staff.tcs.uj.edu.pl/introduction-to-order-theory-2020/)
   * [Applied Combinatorics](https://www.appliedcombinatorics.org/book/app-comb.html)
+  * [Georgia Tech. Combinatorics](https://sites.gatech.edu/math3012openresources/)
 * Geometry, Topology, ...
   * [An Elementary Treatise on Pure Geometry with Numerous Examples](https://archive.org/details/anelementarytre02russgoog)
   * [ Topology, Manifolds & Differential Geometry ](https://www.youtube.com/playlist?list=PLxBAVPVHJPcrNrcEBKbqC_ykiVqfxZgNl)
