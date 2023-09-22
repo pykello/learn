@@ -6,3 +6,5 @@
 * [Australian Math Society Gazzete](https://austms.org.au/publications/gazette/gazette-past-issues/)
 * [Kenyon College Problem of the Week](https://www2.kenyon.edu/Depts/Math/Aydin/Problem/)
 * [Olympiad Problems](https://imomath.com/index.cgi?page=problemsFromOlympiads)
+* [Quant Puzzles](https://puzzles.nigelcoldwell.co.uk/)
+
