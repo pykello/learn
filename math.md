@@ -58,4 +58,5 @@
   * [MIT 6.849 Geometric Folding Algorithms: Linkages, Origami, Polyhedra](https://ocw.mit.edu/courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/)
   * [MIT 2.158J Computational Geometry](https://ocw.mit.edu/courses/2-158j-computational-geometry-spring-2003/)
   * [MIT 18.727 Algebraic Geometry](https://ocw.mit.edu/courses/18-726-algebraic-geometry-spring-2009/)
- 
+* etc
+  * [Geometric Mechanics, Part I: Dynamics and Symmetry](https://www.ma.imperial.ac.uk/~dholm/classnotes/HolmPart1-GM.pdf)
