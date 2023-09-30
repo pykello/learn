@@ -7,4 +7,6 @@
 * [Kenyon College Problem of the Week](https://www2.kenyon.edu/Depts/Math/Aydin/Problem/)
 * [Olympiad Problems](https://imomath.com/index.cgi?page=problemsFromOlympiads)
 * [Quant Puzzles](https://puzzles.nigelcoldwell.co.uk/)
-
+* [Oxford Admission Past Papers](https://www.maths.ox.ac.uk/study-here/undergraduate-study/maths-admissions-test)
+* [Cambridge Mathematical Tripos](https://www.maths.cam.ac.uk/undergrad/pastpapers/past-ia-ib-and-ii-examination-papers)
+* [TUMA - Test of Mathematics for University Admission](https://stepmaths.co.uk/maths/tmua-past-papers-and-solutions/)
