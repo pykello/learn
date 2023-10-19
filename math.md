@@ -20,6 +20,10 @@
    * [Measure Theory](https://www.youtube.com/playlist?list=PLo4jXE-LdDTQq8ZyA8F8reSQHej3F6RFX)
 * Probability & Statistics
    * [Probability Theory: Logic of Science](https://www.youtube.com/playlist?list=PL9v9IXDsJkktefQzX39wC2YG07vw7DsQ_)
+   * [NJ Wildberger: Probability and Statistics: an introduction](https://www.youtube.com/playlist?list=PLIljB45xT85AMigTyprOuf__daeklnLse)
+   * [MIT 6.0002 Introduction to Computational Thinking and Data Science, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd)
+   * [MIT 18.S190 Introduction To Metric Spaces, IAP 2023](https://www.youtube.com/playlist?list=PLUl4u3cNGP613ULTyHAqz04niYf722x7S)
+   * [ 6.041 Probabilistic Systems Analysis and Applied Probability ](https://www.youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8)
    * [Sharif OCW: استنتاج آماری در عصر رایانه](https://ocw.sharif.edu/course/id/186/%D8%AF%D8%A7%D9%86%D8%B4%DA%A9%D8%AF%D9%87-%D8%B9%D9%84%D9%88%D9%85-%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C/%D8%A7%D8%B3%D8%AA%D9%86%D8%AA%D8%A7%D8%AC-%D8%A2%D9%85%D8%A7%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%B9%D8%B5%D8%B1-%D8%B1%D8%A7%DB%8C%D8%A7%D9%86%D9%87.html)
    * [MATH 345 - Probability](https://stats.libretexts.org/Courses/Saint_Mary's_College_Notre_Dame/MATH_345__-_Probability_(Kuter))
    * [MIT RES.6-012 Introduction to Probability, Spring 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
