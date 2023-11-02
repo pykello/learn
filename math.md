@@ -25,10 +25,9 @@
    * [MIT 6.0002 Introduction to Computational Thinking and Data Science, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd)
    * [MIT 18.S190 Introduction To Metric Spaces, IAP 2023](https://www.youtube.com/playlist?list=PLUl4u3cNGP613ULTyHAqz04niYf722x7S)
    * [MIT 18.S096 Topics in Mathematics w Applications in Finance](https://www.youtube.com/playlist?list=PLUl4u3cNGP63ctJIEC1UnZ0btsphnnoHR)
-   * [ 6.041 Probabilistic Systems Analysis and Applied Probability ](https://www.youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8)
    * [Sharif OCW: استنتاج آماری در عصر رایانه](https://ocw.sharif.edu/course/id/186/%D8%AF%D8%A7%D9%86%D8%B4%DA%A9%D8%AF%D9%87-%D8%B9%D9%84%D9%88%D9%85-%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C/%D8%A7%D8%B3%D8%AA%D9%86%D8%AA%D8%A7%D8%AC-%D8%A2%D9%85%D8%A7%D8%B1%DB%8C-%D8%AF%D8%B1-%D8%B9%D8%B5%D8%B1-%D8%B1%D8%A7%DB%8C%D8%A7%D9%86%D9%87.html)
    * [MATH 345 - Probability](https://stats.libretexts.org/Courses/Saint_Mary's_College_Notre_Dame/MATH_345__-_Probability_(Kuter))
-   * [MIT RES.6-012 Introduction to Probability, Spring 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
+   * [MIT RES.6-012 Introduction to Probability, Spring 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6) [Problem sets, 2010](https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/pages/assignments/)
    * [Martingale Theory](https://www.youtube.com/playlist?list=PLmsGGxFhM5bw4ZGTx_GKxNhDyA8S3zi6i)
    * [Markov Chains](https://www.youtube.com/playlist?list=PLmsGGxFhM5bw8yWvgJTEyJCy9Ku_2f6BS)
 * Linear Algera
