@@ -6,3 +6,4 @@
 * [مجله تاریخ علم](https://jihs.ut.ac.ir/)
 * [The Development Of Arabic Mathematics Between Arithmetic And Algebra](https://archive.org/details/RoshdiRashedauth.TheDevelopmentOfArabicMathematicsBetweenArithmeticAndAlgebraSpringerNetherlands1994/page/n53/mode/2up)
 * [Privatdozent](https://www.privatdozent.co/s/stories)
+* [HistMath](https://www.maths.tcd.ie/pub/HistMath/)
