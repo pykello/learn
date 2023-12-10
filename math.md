@@ -30,6 +30,7 @@
    * [MIT RES.6-012 Introduction to Probability, Spring 2018](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6) ([Problem sets, 2010](https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/pages/assignments/))
    * [Martingale Theory](https://www.youtube.com/playlist?list=PLmsGGxFhM5bw4ZGTx_GKxNhDyA8S3zi6i)
    * [Markov Chains](https://www.youtube.com/playlist?list=PLmsGGxFhM5bw8yWvgJTEyJCy9Ku_2f6BS)
+   * [UC Davis Exams](https://www.math.ucdavis.edu/~gravner/MAT135A/resources/)
 * Linear Algera
   * [3Blue1Brown: Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
   * [MIT 18.06 Linear Algebra, Spring 2005](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
