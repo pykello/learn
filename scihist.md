@@ -10,3 +10,4 @@
 
 * [List of volunteer computing projects](https://en.wikipedia.org/wiki/List_of_volunteer_computing_projects)
 * [On this Day in Math](https://pballew.blogspot.com/2016/01/on-this-day-in-math-january-16.html)
+* [17th Century Mathematics](https://www.17centurymaths.com/)
