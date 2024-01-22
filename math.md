@@ -22,6 +22,7 @@
    * [Measure Theory](https://www.youtube.com/playlist?list=PLo4jXE-LdDTQq8ZyA8F8reSQHej3F6RFX)
    * [Harvard - Analysis II](https://people.math.harvard.edu/~ctm/home/text/class/harvard/114/14/html/index.html)
 * Probability & Statistics
+   * [POL 571](https://imai.fas.harvard.edu/teaching/stat.html)
    * [Probability Theory: Logic of Science](https://www.youtube.com/playlist?list=PL9v9IXDsJkktefQzX39wC2YG07vw7DsQ_)
    * [NJ Wildberger: Probability and Statistics: an introduction](https://www.youtube.com/playlist?list=PLIljB45xT85AMigTyprOuf__daeklnLse)
    * [MIT 6.0002 Introduction to Computational Thinking and Data Science, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd)
