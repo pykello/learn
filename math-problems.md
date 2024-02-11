@@ -13,3 +13,4 @@
 * [TUMA - Test of Mathematics for University Admission](https://stepmaths.co.uk/maths/tmua-past-papers-and-solutions/)
 * [Harvard-MIT Math Tournament](https://www.hmmt.org/)
 * [Iran Olympiads](http://olymaths.blogfa.com/)
+* [Probability Puzzles](https://sites.math.rutgers.edu/~sg1108/Puzzles.pdf)
