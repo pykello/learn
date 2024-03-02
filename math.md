@@ -43,6 +43,7 @@
   * [Lie Algebras in Particle Physics](https://www.youtube.com/playlist?list=PLHA6eeiAqIiP3G2Vwm0cXXRXDrnWASouK)
   * [Harvard Abstract Algebra](https://www.youtube.com/playlist?list=PLelIK3uylPMGzHBuR3hLMHrYfMqWWsmx5)
   * [MIT 18.703, Modern Algebra (No Videos)](https://ocw.mit.edu/courses/18-703-modern-algebra-spring-2013/)
+  * [UC Berkeley](https://math.berkeley.edu/~apaulin/AbstractAlgebra.pdf)
   * 3Blue1Brown
     * [Group theory, abstraction, and the 196,883-dimensional monster](https://youtu.be/mH0oCDa74tE)
     * [Euler's formula with introductory group theory](https://youtu.be/mvmuCPvRoWQ)
