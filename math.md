@@ -72,3 +72,4 @@
   * [Discrete Differential Geometry](https://www.youtube.com/playlist?list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS)
 * etc
   * [Geometric Mechanics, Part I: Dynamics and Symmetry](https://www.ma.imperial.ac.uk/~dholm/classnotes/HolmPart1-GM.pdf)
+  * [Yufei Zhao](https://yufeizhao.com/olympiad/)
