@@ -22,6 +22,7 @@
    * [Measure Theory](https://www.youtube.com/playlist?list=PLo4jXE-LdDTQq8ZyA8F8reSQHej3F6RFX)
    * [Harvard - Analysis II](https://people.math.harvard.edu/~ctm/home/text/class/harvard/114/14/html/index.html)
 * Probability & Statistics
+   * [Probability & Random Processes, Ramon van Handel](https://web.math.princeton.edu/~rvan/ORF309.pdf)
    * [POL 571](https://imai.fas.harvard.edu/teaching/stat.html)
    * [Probability Theory: Logic of Science](https://www.youtube.com/playlist?list=PL9v9IXDsJkktefQzX39wC2YG07vw7DsQ_)
    * [NJ Wildberger: Probability and Statistics: an introduction](https://www.youtube.com/playlist?list=PLIljB45xT85AMigTyprOuf__daeklnLse)
