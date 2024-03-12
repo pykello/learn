@@ -6,3 +6,4 @@
    * [udacity: Introduction to Information Security](https://www.udacity.com/course/intro-to-information-security--ud459)
  * Operating Systems
    * [cpu.land](https://cpu.land/)
+   * [CSE 481A](https://courses.cs.washington.edu/courses/cse481a/18wi/schedule.html)
