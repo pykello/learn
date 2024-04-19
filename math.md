@@ -17,6 +17,7 @@
   * [3Blue1Brown: Differential equations](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6)
 * Measure Theory: [Bright side of mathematics](https://www.youtube.com/playlist?list=PLBh2i93oe2qvMVqAzsX1Kuv6-4fjazZ8j)
 * Analysis
+   * [Mathematics 9133 :: Real Analysis](https://math.sci.uwo.ca/~shafikov/teaching/winter2019/9133/#lecturenotes)
    * [Tsirelson, Analysis 3,4](https://www.tau.ac.il/~tsirel/Courses/Analysis3,4-2014,15/main.html)
    * [Jerry Shurman, Multivariable Calculus](http://www2.stat.duke.edu/~sayan/informal/vcalc.pdf) 
    * [MIT 18.100A Real Analysis, Fall 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP61O7HkcF7UImpM0cR_L2gSw)
