@@ -80,3 +80,4 @@
 * etc
   * [Geometric Mechanics, Part I: Dynamics and Symmetry](https://www.ma.imperial.ac.uk/~dholm/classnotes/HolmPart1-GM.pdf)
   * [Yufei Zhao](https://yufeizhao.com/olympiad/)
+  * [A TOUR THROUGH MIRZAKHANI’S WORK ON MODULI SPACES OF RIEMANN SURFACES](https://www.ams.org/journals/bull/2020-57-03/S0273-0979-2020-01687-3/S0273-0979-2020-01687-3.pdf)
