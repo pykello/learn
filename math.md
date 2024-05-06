@@ -77,6 +77,7 @@
   * [Exercises for Elementary Differential Geometry](https://www.math.ucla.edu/~petersen/pressley_exercises.pdf)
   * [Petersen Notes](https://www.math.ucla.edu/%7Epetersen/DiffGeo.pdf)
   * [Discrete Differential Geometry](https://www.youtube.com/playlist?list=PL9_jI1bdZmz0hIrNCMQW1YmZysAiIYSSS)
+  * [UCI](https://www.math.uci.edu/~ndonalds/math162a/)
 * etc
   * [Geometric Mechanics, Part I: Dynamics and Symmetry](https://www.ma.imperial.ac.uk/~dholm/classnotes/HolmPart1-GM.pdf)
   * [Yufei Zhao](https://yufeizhao.com/olympiad/)
