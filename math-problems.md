@@ -16,3 +16,4 @@
 * [Iran Olympiads](http://olymaths.blogfa.com/)
 * [Probability Puzzles](https://sites.math.rutgers.edu/~sg1108/Puzzles.pdf)
 * [Virginia Tech Regional Contest](https://math.vt.edu/undergrad-math/vtrmc.html)
+* [Cambridge Exams](https://www.dpmms.cam.ac.uk/study/)
