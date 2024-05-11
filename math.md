@@ -83,5 +83,6 @@
   * [Geometric Mechanics, Part I: Dynamics and Symmetry](https://www.ma.imperial.ac.uk/~dholm/classnotes/HolmPart1-GM.pdf)
   * [Yufei Zhao](https://yufeizhao.com/olympiad/)
   * [A TOUR THROUGH MIRZAKHANI’S WORK ON MODULI SPACES OF RIEMANN SURFACES](https://www.ams.org/journals/bull/2020-57-03/S0273-0979-2020-01687-3/S0273-0979-2020-01687-3.pdf)
+  * [Eftekhari - Mirzakhani](https://math.ipm.ac.ir/~eftekhary/files/Mirzakhani-Work.pdf)
   * [A short course on modular forms](https://www.youtube.com/playlist?list=PLu9WXBJhWLejmm5q23QrHm0_qSK1A5vIR)
   * [CMU Boolean Analysis](https://www.cs.cmu.edu/~odonnell/boolean-analysis/)
