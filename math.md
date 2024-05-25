@@ -87,3 +87,4 @@
   * [Eftekhari - Mirzakhani](https://math.ipm.ac.ir/~eftekhary/files/Mirzakhani-Work.pdf)
   * [A short course on modular forms](https://www.youtube.com/playlist?list=PLu9WXBJhWLejmm5q23QrHm0_qSK1A5vIR)
   * [CMU Boolean Analysis](https://www.cs.cmu.edu/~odonnell/boolean-analysis/)
+  * [U Chicago REU 2018](http://math.uchicago.edu/~may/REU2018/)
