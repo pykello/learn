@@ -7,3 +7,5 @@
  * Operating Systems
    * [cpu.land](https://cpu.land/)
    * [CSE 481A](https://courses.cs.washington.edu/courses/cse481a/18wi/schedule.html)
+ * Etc
+   * [Stanford, Geometry Processing Algorithms](https://graphics.stanford.edu/courses/cs468-10-fall/schedule/schedule.html)
