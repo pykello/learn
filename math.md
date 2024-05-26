@@ -80,6 +80,7 @@
   * [UCI](https://www.math.uci.edu/~ndonalds/math162a/)
   * [Shifrin](https://services.math.duke.edu/~psa/cls/421/Shifrin-DG.pdf)
   * [Introduction to Mathematical Biophysics](https://www.math.fsu.edu/~quine/MB_11/Math%20Biophysics%20Fall%202011.html)
+  * [ Advanced Geometric Methods in Computer Science ](https://www.cis.upenn.edu/~cis6100/)
 * Linear Algebra
   * [MATH304-504 : Linear Algebra](https://people.tamu.edu/~yvorobets/MATH304-2008C/MATH304-504.html)
   * [Harvar Linear Algebra](https://people.math.harvard.edu/~knill/teaching/math22b2019/index.html)
