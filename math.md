@@ -80,6 +80,8 @@
   * [UCI](https://www.math.uci.edu/~ndonalds/math162a/)
   * [Shifrin](https://services.math.duke.edu/~psa/cls/421/Shifrin-DG.pdf)
   * [Introduction to Mathematical Biophysics](https://www.math.fsu.edu/~quine/MB_11/Math%20Biophysics%20Fall%202011.html)
+* Linear Algebra
+  * [MATH304-504 : Linear Algebra](https://people.tamu.edu/~yvorobets/MATH304-2008C/MATH304-504.html)
 * etc
   * [Geometric Mechanics, Part I: Dynamics and Symmetry](https://www.ma.imperial.ac.uk/~dholm/classnotes/HolmPart1-GM.pdf)
   * [Yufei Zhao](https://yufeizhao.com/olympiad/)
