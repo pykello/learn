@@ -85,6 +85,7 @@
 * Linear Algebra
   * [MATH304-504 : Linear Algebra](https://people.tamu.edu/~yvorobets/MATH304-2008C/MATH304-504.html)
   * [Harvar Linear Algebra](https://people.math.harvard.edu/~knill/teaching/math22b2019/index.html)
+  * [Fundamentals of Linear Algebra (UBC)](https://personal.math.ubc.ca/~carrell/NB.pdf)
 * etc
   * [Geometric Mechanics, Part I: Dynamics and Symmetry](https://www.ma.imperial.ac.uk/~dholm/classnotes/HolmPart1-GM.pdf)
   * [Yufei Zhao](https://yufeizhao.com/olympiad/)
