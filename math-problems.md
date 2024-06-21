@@ -19,3 +19,4 @@
 * [Cambridge Exams](https://www.dpmms.cam.ac.uk/study/)
 * [Kristen Hendricks](https://sites.math.rutgers.edu/~kh754/teaching.html)
 * [Math Magic](https://erich-friedman.github.io/mathmagic/)
+* [mathproblems.info](https://mathproblems.info/working.php)
