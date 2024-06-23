@@ -83,6 +83,8 @@
   * [Introduction to Mathematical Biophysics](https://www.math.fsu.edu/~quine/MB_11/Math%20Biophysics%20Fall%202011.html)
   * [ Advanced Geometric Methods in Computer Science ](https://www.cis.upenn.edu/~cis6100/)
   * [Calculus 4](https://sites.ualberta.ca/~vbouchar/MATH215/front.html)
+  * [Introduction to Differential Forms](https://www.math.purdue.edu/~arapura/preprints/diffforms.pdf)
+  * [Differential Forms Lecture Nores](https://e.math.cornell.edu/people/mazurowski/DifferentialFormsNotes.pdf)
 * Linear Algebra
   * [MATH304-504 : Linear Algebra](https://people.tamu.edu/~yvorobets/MATH304-2008C/MATH304-504.html)
   * [Harvar Linear Algebra](https://people.math.harvard.edu/~knill/teaching/math22b2019/index.html)
