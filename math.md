@@ -85,6 +85,7 @@
   * [Calculus 4](https://sites.ualberta.ca/~vbouchar/MATH215/front.html)
   * [Introduction to Differential Forms](https://www.math.purdue.edu/~arapura/preprints/diffforms.pdf)
   * [Differential Forms Lecture Nores](https://e.math.cornell.edu/people/mazurowski/DifferentialFormsNotes.pdf)
+  * [Manifolds and Differential Forms](https://pi.math.cornell.edu/~sjamaar/manifolds/manifold.pdf)
 * Linear Algebra
   * [MATH304-504 : Linear Algebra](https://people.tamu.edu/~yvorobets/MATH304-2008C/MATH304-504.html)
   * [Harvar Linear Algebra](https://people.math.harvard.edu/~knill/teaching/math22b2019/index.html)
