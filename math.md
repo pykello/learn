@@ -15,6 +15,7 @@
 * Differential Equations
   * [edx: Introduction to Differential Equations](https://www.edx.org/course/introduction-to-differential-equations-2)
   * [3Blue1Brown: Differential equations](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6)
+  * [Calculus on a Normed Linear Space](http://www.supermath.info/AdvancedCalculus2017.pdf)
 * Measure Theory: [Bright side of mathematics](https://www.youtube.com/playlist?list=PLBh2i93oe2qvMVqAzsX1Kuv6-4fjazZ8j)
 * Analysis
    * [Mathematics 9133 :: Real Analysis](https://math.sci.uwo.ca/~shafikov/teaching/winter2019/9133/#lecturenotes)
