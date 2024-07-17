@@ -103,3 +103,4 @@
   * [U Chicago REU 2018](http://math.uchicago.edu/~may/REU2018/)
   * [Jay's Notes](https://jhavaldar.github.io/notes_index)
   * [Problem Solving Seminar](https://www.math.cmu.edu/users/ttkocz/teaching_1314.php)
+  * [Math Explorer's Club](https://pi.math.cornell.edu/~mec/)
