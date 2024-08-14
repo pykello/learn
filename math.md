@@ -12,6 +12,7 @@
   * [MIT 18.02 Multivariable Calculus, Fall 2007](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38)
   * [edx: Calculus Applied!](https://www.edx.org/course/calculus-applied)
   * [coursera: Calculus for Machine Learning and Data Science](https://www.coursera.org/learn/machine-learning-calculus)
+  * [Purdue 324](https://www.math.purdue.edu/~neptamin/324Au17/Notes/indexold.html)
 * Differential Equations
   * [edx: Introduction to Differential Equations](https://www.edx.org/course/introduction-to-differential-equations-2)
   * [3Blue1Brown: Differential equations](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6)
