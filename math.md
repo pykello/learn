@@ -7,6 +7,7 @@
   * [Ivan Matic](https://imomath.com/bmath/index.cgi)
   * [Paul's Online Math Notes](https://tutorial.math.lamar.edu/)
   * [Neil Donaldson](https://www.math.uci.edu/~ndonalds/)
+  * [Joel Feldman](https://personal.math.ubc.ca/~feldman/)
 * Calculus
   * [MIT 18.01 Single Variable Calculus, Fall 2006](https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1) ([material for 2005](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2005/))
   * [MIT 18.02 Multivariable Calculus, Fall 2007](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38)
