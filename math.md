@@ -44,6 +44,7 @@
   * [3Blue1Brown: Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
   * [MIT 18.06 Linear Algebra, Spring 2005](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
   * [Applications of Linear Algebra](https://www.math.ucdavis.edu/~daddel/linear_algebra_appl/Applications/applications.html)
+  * [Harvard Linear Algebra And Vector Calculus I](https://people.math.harvard.edu/~knill/teaching/math22a2018/handouts/22a_2018_latest.pdf)
 * Abstract Algebra
   * [Mathemaniac: Essence of Group Theory](https://www.youtube.com/playlist?list=PLDcSwjT2BF_VuNbn8HiHZKKy59SgnIAeO)
   * [Lie Algebras in Particle Physics](https://www.youtube.com/playlist?list=PLHA6eeiAqIiP3G2Vwm0cXXRXDrnWASouK)
