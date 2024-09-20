@@ -48,6 +48,8 @@
   * [Applications of Linear Algebra](https://www.math.ucdavis.edu/~daddel/linear_algebra_appl/Applications/applications.html)
   * [Harvard Linear Algebra And Vector Calculus I](https://people.math.harvard.edu/~knill/teaching/math22a2018/handouts/22a_2018_latest.pdf)
   * [Math 416](https://mediaspace.illinois.edu/tag?tagid=math%20416)
+  * [Boyd, Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls.pdf)
+  * [CSCI 2820: Linear Algebra with Computer Science Applications](https://home.cs.colorado.edu/~alko5368/indexCSCI2820.html)
 * Abstract Algebra
   * [Mathemaniac: Essence of Group Theory](https://www.youtube.com/playlist?list=PLDcSwjT2BF_VuNbn8HiHZKKy59SgnIAeO)
   * [Lie Algebras in Particle Physics](https://www.youtube.com/playlist?list=PLHA6eeiAqIiP3G2Vwm0cXXRXDrnWASouK)
