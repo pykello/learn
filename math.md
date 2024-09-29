@@ -99,6 +99,7 @@
   * [6.838: Shape Analysis (Spring 2021)](https://www.youtube.com/playlist?list=PLQ3UicqQtfNtUcdTMLgKSTTOiEsCw2VBW)
   * [Cornell Differential Geometry](https://e.math.cornell.edu/people/belk/differentialgeometry/)
   * [Math 4250: Differential Geometry](https://jasoncantarella.com/wordpress/courses/math-4250/)
+  * [Georgia Tech Differential Geometry](https://austinchristian.math.gatech.edu/teaching/4441-f22/)
 * Linear Algebra
   * [MATH304-504 : Linear Algebra](https://people.tamu.edu/~yvorobets/MATH304-2008C/MATH304-504.html)
   * [Harvar Linear Algebra](https://people.math.harvard.edu/~knill/teaching/math22b2019/index.html)
