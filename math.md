@@ -19,7 +19,6 @@
 * Differential Equations
   * [edx: Introduction to Differential Equations](https://www.edx.org/course/introduction-to-differential-equations-2)
   * [3Blue1Brown: Differential equations](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6)
-  * [Calculus on a Normed Linear Space](http://www.supermath.info/AdvancedCalculus2017.pdf)
 * Measure Theory: [Bright side of mathematics](https://www.youtube.com/playlist?list=PLBh2i93oe2qvMVqAzsX1Kuv6-4fjazZ8j)
 * Analysis
    * [Mathematics 9133 :: Real Analysis](https://math.sci.uwo.ca/~shafikov/teaching/winter2019/9133/#lecturenotes)
@@ -84,6 +83,7 @@
   * [MIT 6.849 Geometric Folding Algorithms: Linkages, Origami, Polyhedra](https://ocw.mit.edu/courses/6-849-geometric-folding-algorithms-linkages-origami-polyhedra-fall-2012/)
   * [MIT 2.158J Computational Geometry](https://ocw.mit.edu/courses/2-158j-computational-geometry-spring-2003/)
   * [MIT 18.727 Algebraic Geometry](https://ocw.mit.edu/courses/18-726-algebraic-geometry-spring-2009/)
+  * [UIUC 432: Set Theory and Topology](https://www.math.mcgill.ca/atserunyan/Courses/2019_S.Math432.ST%20and%20top/math_432.html), [Armenia Edition](https://www.math.mcgill.ca/atserunyan/Courses/2023_S.Yerevan.Metric&Top/)
 * Differential Geometry
   * [UIUC Math 481](https://jpascale.web.illinois.edu/courses/481sp20/)
   * [Exercises for Elementary Differential Geometry](https://www.math.ucla.edu/~petersen/pressley_exercises.pdf)
