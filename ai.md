@@ -4,3 +4,4 @@
 * [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html)
 * [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/)
 * [CMU Deep Learning](https://deeplearning.cs.cmu.edu/F24/index.html)
+* [CMU Deep Learning Systems](https://dlsyscourse.org/lectures/)
