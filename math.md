@@ -28,6 +28,7 @@
    * [Complex Analysis, A Visual and Interactive Introduction](https://complex-analysis.com/)
    * [Measure Theory](https://www.youtube.com/playlist?list=PLo4jXE-LdDTQq8ZyA8F8reSQHej3F6RFX)
    * [Harvard - Analysis II](https://people.math.harvard.edu/~ctm/home/text/class/harvard/114/14/html/index.html)
+   * [UIUC 424](http://lerman.web.illinois.edu/424/f14/f14hw.html)
 * Probability & Statistics
    * [UIUC](https://daesungk.github.io/teaching/math461-s22-uiuc/)
    * [Probability & Random Processes, Ramon van Handel](https://web.math.princeton.edu/~rvan/ORF309.pdf)
