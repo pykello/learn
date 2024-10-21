@@ -5,3 +5,4 @@
 * [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/)
 * [CMU Deep Learning](https://deeplearning.cs.cmu.edu/F24/index.html)
 * [CMU Deep Learning Systems](https://dlsyscourse.org/lectures/)
+* [Oxford CUDA Programming on NVIDIA GPUs](https://www2.maths.ox.ac.uk/~gilesm/cuda/index.html)
