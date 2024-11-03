@@ -99,6 +99,7 @@
   * [ Advanced Geometric Methods in Computer Science ](https://www.cis.upenn.edu/~cis6100/)
   * [Calculus 4](https://sites.ualberta.ca/~vbouchar/MATH215/front.html)
   * [Introduction to Differential Forms](https://www.math.purdue.edu/~arapura/preprints/diffforms.pdf)
+  * [An Introduction to Differential Forms, Stokes’ Theorem and Gauss-Bonnet Theorem](https://math.uchicago.edu/~may/REU2017/REUPapers/Nanavaty.pdf)
   * [Differential Forms Lecture Nores](https://e.math.cornell.edu/people/mazurowski/DifferentialFormsNotes.pdf)
   * [Manifolds and Differential Forms](https://pi.math.cornell.edu/~sjamaar/manifolds/manifold.pdf)
   * [dg1](https://www3.math.tu-berlin.de/geometrie/Lehre/SS19/DGI/dg1.pdf)
