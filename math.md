@@ -47,6 +47,11 @@
    * [Martingale Theory](https://www.youtube.com/playlist?list=PLmsGGxFhM5bw4ZGTx_GKxNhDyA8S3zi6i)
    * [Markov Chains](https://www.youtube.com/playlist?list=PLmsGGxFhM5bw8yWvgJTEyJCy9Ku_2f6BS)
    * [UC Davis Exams](https://www.math.ucdavis.edu/~gravner/MAT135A/resources/)
+   * Graduate
+     * [BINGHAM Stochastic Processes](https://www.ma.ic.ac.uk/~bin06/Stochastic-Processes/)
+     * [BINGHAM Measure-Theoretic Probability](https://www.ma.ic.ac.uk/~bin06/Measure-Theoretic/)
+     * [Berkeley Math218A](https://www.stat.berkeley.edu/~aldous/205A/)
+     * [UW-Madison Measure Theoretic Probability Theory](https://people.math.wisc.edu/~roch/grad-prob/index.html)
 * Linear Algera
   * [3Blue1Brown: Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
   * [MIT 18.06 Linear Algebra, Spring 2005](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
