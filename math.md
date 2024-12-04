@@ -53,6 +53,7 @@
      * [Berkeley Math218A](https://www.stat.berkeley.edu/~aldous/205A/)
      * [UW-Madison Measure Theoretic Probability Theory](https://people.math.wisc.edu/~roch/grad-prob/index.html)
      * [Purdue MEASURE THEORY and PROBABILITY](https://www.math.purdue.edu/~banuelos/probability.pdf)
+     * [U Alberta](https://sites.ualberta.ca/~kashlak/data/stat571.pdf)
 * Linear Algera
   * [3Blue1Brown: Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
   * [MIT 18.06 Linear Algebra, Spring 2005](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
