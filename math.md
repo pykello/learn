@@ -47,6 +47,7 @@
    * [Martingale Theory](https://www.youtube.com/playlist?list=PLmsGGxFhM5bw4ZGTx_GKxNhDyA8S3zi6i)
    * [Markov Chains](https://www.youtube.com/playlist?list=PLmsGGxFhM5bw8yWvgJTEyJCy9Ku_2f6BS)
    * [UC Davis Exams](https://www.math.ucdavis.edu/~gravner/MAT135A/resources/)
+   * [Lectures in Mathematical Statistics](https://www.le.ac.uk/users/dsgp1/COURSES/MATHSTAT/PROSTAST.HTM)
    * Graduate
      * [BINGHAM Stochastic Processes](https://www.ma.ic.ac.uk/~bin06/Stochastic-Processes/)
      * [BINGHAM Measure-Theoretic Probability](https://www.ma.ic.ac.uk/~bin06/Measure-Theoretic/)
