@@ -65,6 +65,7 @@
   * [CSCI 2820: Linear Algebra with Computer Science Applications](https://home.cs.colorado.edu/~alko5368/indexCSCI2820.html)
   * [Advanced Linear Algebra](https://dummit.cos.northeastern.edu/teaching_sp20_4571)
   * [JHU](https://math.jhu.edu/~lindblad/201/201.html)
+  * [Duke 2024](https://services.math.duke.edu/~jdr/2324s-218/)
 * Abstract Algebra
   * [Mathemaniac: Essence of Group Theory](https://www.youtube.com/playlist?list=PLDcSwjT2BF_VuNbn8HiHZKKy59SgnIAeO)
   * [Lie Algebras in Particle Physics](https://www.youtube.com/playlist?list=PLHA6eeiAqIiP3G2Vwm0cXXRXDrnWASouK)
