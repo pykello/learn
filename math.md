@@ -66,6 +66,7 @@
   * [Advanced Linear Algebra](https://dummit.cos.northeastern.edu/teaching_sp20_4571)
   * [JHU](https://math.jhu.edu/~lindblad/201/201.html)
   * [Duke 2024](https://services.math.duke.edu/~jdr/2324s-218/)
+  * [UIUC 2024](https://nmd.web.illinois.edu/classes/2022/416/#notes)
 * Abstract Algebra
   * [Mathemaniac: Essence of Group Theory](https://www.youtube.com/playlist?list=PLDcSwjT2BF_VuNbn8HiHZKKy59SgnIAeO)
   * [Lie Algebras in Particle Physics](https://www.youtube.com/playlist?list=PLHA6eeiAqIiP3G2Vwm0cXXRXDrnWASouK)
