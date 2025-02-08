@@ -6,3 +6,5 @@
 * [CMU Deep Learning](https://deeplearning.cs.cmu.edu/F24/index.html)
 * [CMU Deep Learning Systems](https://dlsyscourse.org/lectures/)
 * [Oxford CUDA Programming on NVIDIA GPUs](https://www2.maths.ox.ac.uk/~gilesm/cuda/index.html)
+* [AI by Hand](https://www.byhand.ai/)
+
