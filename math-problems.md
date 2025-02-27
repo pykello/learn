@@ -7,7 +7,6 @@
 * [Leigh Math Contests](https://www.lehigh.edu/~dmd1/oldcontests.html)
 * [Australian Math Society Gazzete](https://austms.org.au/publications/gazette/gazette-past-issues/)
 * [Kenyon College Problem of the Week](https://www2.kenyon.edu/Depts/Math/Aydin/Problem/)
-* [Olympiad Problems](https://imomath.com/index.cgi?page=problemsFromOlympiads)
 * [Quant Puzzles](https://puzzles.nigelcoldwell.co.uk/)
 * [Oxford Admission Past Papers](https://www.maths.ox.ac.uk/study-here/undergraduate-study/maths-admissions-test)
 * [Cambridge Mathematical Tripos](https://www.maths.cam.ac.uk/undergrad/pastpapers/past-ia-ib-and-ii-examination-papers)
@@ -22,3 +21,8 @@
 * [mathproblems.info](https://mathproblems.info/working.php)
 * [Utah Math Olympiad](http://utahmath.org/problems/)
 * [Sharif 2010](http://calculus.math.sharif.edu/gm1_2010/Index.htm)
+
+
+## Olympiad Problems
+* [Olympiad Problems](https://imomath.com/index.cgi?page=problemsFromOlympiads)
+* [Mexico](http://www.ommenlinea.org/actividades/concursos/concurso-nacional/)
