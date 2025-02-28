@@ -22,6 +22,9 @@
 * [Utah Math Olympiad](http://utahmath.org/problems/)
 * [Sharif 2010](http://calculus.math.sharif.edu/gm1_2010/Index.htm)
 
+## University Competitions
+* [Simon Marais](https://www.simonmarais.org/)
+
 
 ## Olympiad Problems
 * [Olympiad Problems](https://imomath.com/index.cgi?page=problemsFromOlympiads)
