@@ -2,8 +2,6 @@
 * [U Waterloo Contests](https://cemc.math.uwaterloo.ca/contests/past_contests.html)
 * [Purdue Problem of the Week](https://www.math.purdue.edu/pow2/)
 * [Nick's Mathematical Puzzles](http://web.archive.org/web/20060207013213/www.qbyte.org/puzzles/)
-* [Berkeley Math Tournament](https://bmt.berkeley.edu/archive/)
-* [Stanford Math Tournament](https://www.stanfordmathtournament.com/archive/problems)
 * [Leigh Math Contests](https://www.lehigh.edu/~dmd1/oldcontests.html)
 * [Australian Math Society Gazzete](https://austms.org.au/publications/gazette/gazette-past-issues/)
 * [Kenyon College Problem of the Week](https://www2.kenyon.edu/Depts/Math/Aydin/Problem/)
@@ -11,7 +9,6 @@
 * [Oxford Admission Past Papers](https://www.maths.ox.ac.uk/study-here/undergraduate-study/maths-admissions-test)
 * [Cambridge Mathematical Tripos](https://www.maths.cam.ac.uk/undergrad/pastpapers/past-ia-ib-and-ii-examination-papers)
 * [TUMA - Test of Mathematics for University Admission](https://stepmaths.co.uk/maths/tmua-past-papers-and-solutions/)
-* [Harvard-MIT Math Tournament](https://www.hmmt.org/)
 * [Iran Olympiads](http://olymaths.blogfa.com/)
 * [Probability Puzzles](https://sites.math.rutgers.edu/~sg1108/Puzzles.pdf)
 * [Virginia Tech Regional Contest](https://math.vt.edu/undergrad-math/vtrmc.html)
@@ -21,6 +18,16 @@
 * [mathproblems.info](https://mathproblems.info/working.php)
 * [Utah Math Olympiad](http://utahmath.org/problems/)
 * [Sharif 2010](http://calculus.math.sharif.edu/gm1_2010/Index.htm)
+
+## Highschool Tournaments
+* [PUMaC (Princeton University Mathematics Competition)](https://jason-shi-f9dm.squarespace.com/archives)
+* [Berkeley Math Tournament](https://bmt.berkeley.edu/archive/)
+* [Stanford Math Tournament](https://www.stanfordmathtournament.com/archive/problems)
+* [Harvard-MIT Math Tournament](https://www.hmmt.org/)
+* [Caltech Math Meet](https://www.caltechmathmeet.org/problems)
+* [CMWMC](https://cmimc.math.cmu.edu/cmwmc/past-problems)
+* [MMaths](https://www.mmaths.org/results.html)
+* [Duke Math Meet](https://math.duke.edu/duke-math-meet)
 
 ## University Competitions
 * [Simon Marais](https://www.simonmarais.org/)
