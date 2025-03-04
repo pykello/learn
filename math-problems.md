@@ -35,5 +35,6 @@
 
 ## Olympiad Problems
 * [Olympiad Problems](https://imomath.com/index.cgi?page=problemsFromOlympiads)
+* [Argentina](https://www.oma.org.ar/enunciados/index.htm)
 * [Mexico](http://www.ommenlinea.org/actividades/concursos/concurso-nacional/)
 * [Excalibure](https://www.math.hkust.edu.hk/excalibur/)
