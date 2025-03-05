@@ -13,3 +13,4 @@
  * Etc
    * [Stanford, Geometry Processing Algorithms](https://graphics.stanford.edu/courses/cs468-10-fall/schedule/schedule.html)
    * [Modern Coding Theory](https://courses.cs.washington.edu/courses/cse599i/19au/schedule/)
+   * [Algebraic Error Correcting Codes, Stanford University, Winter 2019](https://web.stanford.edu/~marykw/classes/CS250_W19/)
