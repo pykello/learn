@@ -28,6 +28,7 @@
 * [CMWMC](https://cmimc.math.cmu.edu/cmwmc/past-problems)
 * [MMaths](https://www.mmaths.org/results.html)
 * [Duke Math Meet](https://math.duke.edu/duke-math-meet)
+* [Alberta Highschool Math Competition](https://www.math.ualberta.ca/~ahsmc/past.html)
 
 ## University Competitions
 * [Simon Marais](https://www.simonmarais.org/)
