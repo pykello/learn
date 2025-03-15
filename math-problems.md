@@ -18,6 +18,7 @@
 * [mathproblems.info](https://mathproblems.info/working.php)
 * [Utah Math Olympiad](http://utahmath.org/problems/)
 * [Sharif 2010](http://calculus.math.sharif.edu/gm1_2010/Index.htm)
+* [KAIST Exams](https://mathsci.kaist.ac.kr/home/en/resources/oldexam/)
 
 ## Highschool Tournaments
 * [PUMaC (Princeton University Mathematics Competition)](https://jason-shi-f9dm.squarespace.com/archives)
