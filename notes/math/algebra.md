@@ -37,3 +37,30 @@ Equality holds iff $a_i/b_i$ is constant for all $i$ (sequences are proportional
 **Triangle Inequality.** For any real (or complex) numbers, $|x + y| \le |x| + |y|$.
 In $\mathbb{R}^n$, $\|\mathbf{u}\| + \|\mathbf{v}\| \le \|\mathbf{u}\| + \|\mathbf{v}\|$.
 
+## Other Techniques
+
+**Vieta Jumping.** TODO (https://en.wikipedia.org/wiki/Vieta_jumping)
+
+## Problems
+
+### IMO
+
+**IMO 2012/2.** Let $a_2, a_3, \ldots a_n$ be positive reals with product 1, where $n \ge 3$. Show that
+
+$$
+(1 + a_2)^2 (1+a_3)^3 \cdots (1+a_n)^n > n^n.
+$$
+
+**Hint.** Use AM-GM for each term.
+
+**Solution.** See [IMO-2012-notes.pdf](https://web.evanchen.cc/exams/IMO-2012-notes.pdf)
+
+**Math 2012/4.** Find all functions $f: \mathbb{Z} \rightarrow \mathbb{Z}$ such that, for all integers
+$a, b, c$ that satisfy $a + b + c = 0$, the following equality holds:
+
+$$
+f(a)^2 + f(b)^2 + f(c)^2 = 2 f(a) f(b) + 2 f(b) f(c) + 2 f(c) f(a)
+$$
+
+**Solution.** See [IMO-2012-notes.pdf](https://web.evanchen.cc/exams/IMO-2012-notes.pdf)
+
