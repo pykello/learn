@@ -19,7 +19,8 @@ Groups can be finite or infinite, abelian or non-abelian, but all share the abov
 **Lagrange’s Theorem**: if $H$ is a subgroup of a finite group $G$, then the order (size) of $H$
 divides the order of $G$​.
 
-A consequence is **Fermat’s Little Theorem** in the multiplicative group of integers mod $p$.
+As a consequence, order of any element $a$ of a finite group (i.e. the smallest $k$ such that $a^k=e$)
+divides the order of that group. This can be used to prove **Fermat’s Little Theorem**.
 
 **Fermat's Little Theorem.** Let $p$ be a prime number, and $a$ an integer such that $p \nmid a$. Then:
 
@@ -27,6 +28,13 @@ $$
 a^{p-1} \equiv 1 \pmod{p}
 $$
 
-**Proof using Lagrange’s Theorem.** [TODO]
+**Proof.** Let $G = (\mathbb{Z}/p\mathbb{Z})^\times$  be the multiplicative group of integers modulo $p$.
+Since $p$ is prime, this group contains $1, 2, \ldots, p-1$. So, $|G| = p - 1$. Since order of every element
+divides $p - 1$, for every $a \in G$ we have:
+
+$$
+a^{p-1} \equiv 1 \pmod{p}
+$$
+
 
 
