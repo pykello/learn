@@ -13,3 +13,20 @@ Classic examples of groups include:
 * The group of $n\times n$ invertible matrices $GL_n(F)$ over a field $F$ under matrix multiplication​
 
 Groups can be finite or infinite, abelian or non-abelian, but all share the above axioms.
+
+### Key Theorems and Concepts
+
+**Lagrange’s Theorem**: if $H$ is a subgroup of a finite group $G$, then the order (size) of $H$
+divides the order of $G$​.
+
+A consequence is **Fermat’s Little Theorem** in the multiplicative group of integers mod $p$.
+
+**Fermat's Little Theorem.** Let $p$ be a prime number, and $a$ an integer such that $p \nmid a$. Then:
+
+$$
+a^{p-1} \equiv 1 \pmod{p}
+$$
+
+**Proof using Lagrange’s Theorem.** [TODO]
+
+
