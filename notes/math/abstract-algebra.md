@@ -36,5 +36,7 @@ $$
 a^{p-1} \equiv 1 \pmod{p}
 $$
 
+**Cauchy’s Theorem.** For a prime $p$ dividing $|G|$, there exists an element of order $p$.
+
 
 
