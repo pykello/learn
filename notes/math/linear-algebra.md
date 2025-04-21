@@ -1,3 +1,28 @@
+# Linear Algebra
+
+## 1. Vector Spaces and Subspaces
+- **Vector Space:** A set $V$ with two operations (vector addition and scalar multiplication) satisfying the usual axioms (commutativity, associativity, distributivity, etc.). Elements of $V$ (called **vectors**) can be added and scaled by numbers (scalars) from a field (e.g. real or complex numbers). For example, $\mathbb{R}^n$, the set of $n$-tuples of real numbers, is a vector space under componentwise addition and scalar multiplication.  
+- **Subspace:** A subset $W \subseteq V$ that is itself a vector space (with the addition and scalar multiplication from $V$). Equivalently, $W$ is **nonempty**, and for any $\mathbf{u}, \mathbf{v}\in W$ and scalar $c$, one has $\mathbf{u}+\mathbf{v}\in W$ and $c\mathbf{u}\in W$. Every subspace must contain the zero vector $\mathbf{0}$. For instance, in $\mathbb{R}^3$, all lines through the origin and planes through the origin are subspaces (but a line not through the origin is not a subspace).
+- **Subspace Test:** To quickly determine if $W$ is a subspace of $V$, check that (1) $\mathbf{0}\in W$, (2) $W$ is closed under addition, and (3) $W$ is closed under scalar multiplication. If all hold, $W$ is a subspace.    
+- **Intersection of Subspaces:** The intersection $U\cap W$ of two subspaces $U, W \subseteq V$ is also a subspace. (In contrast, the union $U\cup W$ need not be a subspace unless one subspace is contained in the other.)
+
+## 2. Linear Independence, Bases, and Dimension
+- **Linear Combination:** Given vectors $\mathbf{v}_1,\dots,\mathbf{v}_k\in V$, a *linear combination* of them is any vector of the form $c_1\mathbf{v}_1+\cdots+c_k\mathbf{v}_k$ with scalars $c_i$.  
+- **Linear Independence:** A set of vectors $\{\mathbf{v}_1,\dots,\mathbf{v}_k\}\subseteq V$ is **linearly independent** if the only solution to $c_1\mathbf{v}_1+\cdots+c_k\mathbf{v}_k=\mathbf{0}$ is $c_1=c_2=\cdots=c_k=0$. In other words, no nontrivial linear relation exists among them. If a nonzero combination yields $\mathbf{0}$, the vectors are **dependent**. For example, in $\mathbb{R}^3$, the standard unit vectors $e_1=(1,0,0), e_2=(0,1,0), e_3=(0,0,1)$ are linearly independent, whereas $\{(1,2,3), (2,4,6)\}$ is dependent because $2*(1,2,3) - (2,4,6) = \mathbf{0}$.  
+- **Span and Generating Set:** The set of all linear combinations of $\{\mathbf{v}_1,\dots,\mathbf{v}_k\}$ is their **span**. If $\mathrm{span}\{\mathbf{v}_1,\dots,\mathbf{v}_k\} = V$, we say $\{\mathbf{v}_1,\dots,\mathbf{v}_k\}$ **spans** $V$ or is a **generating set** for $V$.  
+- **Basis:** A set of vectors $B=\{\mathbf{b}_1,\dots,\mathbf{b}_n\}$ in $V$ is a **basis** if: (1) $B$ spans $V$, and (2) $B$ is linearly independent. Equivalently, each $\mathbf{v}\in V$ can be expressed *uniquely* as a combination of basis vectors. A basis is a “just large enough” set of vectors to span the space without any redundancy. For instance, $\{e_1,e_2,e_3\}$ is a basis for $\mathbb{R}^3$.  
+- **Dimension:** If $V$ is spanned by $n$ vectors but no fewer, then $\dim(V)=n$. Equivalently, the dimension is the number of vectors in any basis of $V$. (This is well-defined: a key theorem states all bases of a finite-dimensional space have the same number of elements.) We say $V$ is *finite-dimensional* if it has a finite basis.
+
+### Core Theorems and Properties  
+- **Uniqueness of Basis Size (Dimension Theorem):** In a finite-dimensional space $V$, any two bases contain the same number of vectors. This number is $\dim(V)$. For example, any basis of $\mathbb{R}^5$ has 5 vectors.  
+- **Extension and Reduction Lemmas:** (i) Any linearly independent set of vectors in a finite-dimensional $V$ can be *extended* to a full basis of $V$. (ii) Any spanning set of $V$ can be *reduced* to a basis by discarding dependent vectors. These results ensure bases exist and help construct them in practice.  
+- **In $\mathbb{R}^n$:** Any set of more than $n$ vectors in $\mathbb{R}^n$ is automatically linearly dependent (pigeonhole principle for dimensions). Conversely, any set of $n$ linearly independent vectors in $\mathbb{R}^n$ is a basis (because it must span $\mathbb{R}^n$). For example, in $\mathbb{R}^3$, 4 vectors can’t be independent, and 3 independent vectors must form a basis.  
+- **Coordinates:** If $B=\{\mathbf{b}_1,\dots,\mathbf{b}_n\}$ is a basis for $V$, every vector $\mathbf{v}\in V$ can be written uniquely as $\mathbf{v}=x_1\mathbf{b}_1+\cdots+x_n\mathbf{b}_n$. The scalars $(x_1,\dots,x_n)$ are the **coordinates** of $\mathbf{v}$ relative to $B$. This is very useful in problem solving—one can work with coordinates instead of vectors.
+
+[TODO]
+
+## Problems
+
 1. Let $A$ be a real $n\times n$ skew‑symmetric matrix ($A^T=-A$). Show that $\det(A)\ge0$.
 
 2. Let $A$ be a real $n\times n$ matrix satisfying $A^3=A+I_n$. Show that $\det(A)>0$.
