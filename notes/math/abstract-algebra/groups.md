@@ -14,6 +14,28 @@ Classic examples of groups include:
 
 Groups can be finite or infinite, abelian or non-abelian, but all share the above axioms.
 
+A **homomorphism** between two groups $(G, \cdot)$ and $(H, *)$ is a function $f : G \to H$ such that $f(x \cdot y) = f(x) * f(y)$ for all  $x, y \in G$.
+
+A **subgroup** of a group $G$ is a subset $H \subseteq G$ that is itself a group under the same operation as $G$.
+
+A **left coset** of a subgroup $H$ in $G$ is a set of the form $gH = \{gh \mid h \in H\}$, for some $g \in G$. The **set of left cosets** of a subgroup $H$ in a group $G$ is $\{gH \mid g \in G\}$,
+which partitions $G$ into disjoint subsets, each of the form $gH$.
+
+
+**Example.** Let $G = \mathbb{Z}$ (the integers under addition), and let $H = 3\mathbb{Z} = \{ \ldots, -6, -3, 0, 3, 6, \ldots \}$. Then a left coset of $H$ is:
+
+$$
+1 + H = \{ \ldots, -5, -2, 1, 4, 7, \ldots \}.
+$$
+
+The set of all left cosets of $H = 3\mathbb{Z}$ in $G = \mathbb{Z}$ is:
+
+$$
+\{0 + H, 1 + H, 2 + H\} = \{3\mathbb{Z}, 1 + 3\mathbb{Z}, 2 + 3\mathbb{Z}\}.
+$$
+
+This partitions $\mathbb{Z}$ into three disjoint classes modulo 3.
+
 ### Key Theorems and Concepts
 
 **Lagrange’s Theorem**: if $H$ is a subgroup of a finite group $G$, then the order (size) of $H$
