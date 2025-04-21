@@ -59,7 +59,7 @@ This fundamental theorem relates the number of independent columns of a matrix t
 
 5. Let $A\in M_2(\Bbb R)$ with $\det(A)=-1$. Show $\det\bigl(A^2+I_2\bigr)\ge4$, and determine when equality holds.
 
-6. Let $A,B\in M_3(\Bbb C)$ with $\det(A)=\det(B)=1$. Prove $\det\bigl(A+\sqrt2\,B\bigr)\neq0$.
+6. Let $A,B\in M_3(\Bbb C)$ with $\det(A)=\det(B)=1$. Prove $\det\bigl(A+\sqrt2B\bigr)\neq0$.
 
 7. Let $A,B\in M_2(\Bbb R)$. Show $\det\bigl((AB+BA)^4+(AB-BA)^4\bigr)\ge0$.
 
