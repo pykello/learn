@@ -16,10 +16,36 @@
 ### Core Theorems and Properties  
 - **Uniqueness of Basis Size (Dimension Theorem):** In a finite-dimensional space $V$, any two bases contain the same number of vectors. This number is $\dim(V)$. For example, any basis of $\mathbb{R}^5$ has 5 vectors.  
 - **Extension and Reduction Lemmas:** (i) Any linearly independent set of vectors in a finite-dimensional $V$ can be *extended* to a full basis of $V$. (ii) Any spanning set of $V$ can be *reduced* to a basis by discarding dependent vectors. These results ensure bases exist and help construct them in practice.  
-- **In $\mathbb{R}^n$:** Any set of more than $n$ vectors in $\mathbb{R}^n$ is automatically linearly dependent (pigeonhole principle for dimensions). Conversely, any set of $n$ linearly independent vectors in $\mathbb{R}^n$ is a basis (because it must span $\mathbb{R}^n$). For example, in $\mathbb{R}^3$, 4 vectors can’t be independent, and 3 independent vectors must form a basis.  
 - **Coordinates:** If $B=\{\mathbf{b}_1,\dots,\mathbf{b}_n\}$ is a basis for $V$, every vector $\mathbf{v}\in V$ can be written uniquely as $\mathbf{v}=x_1\mathbf{b}_1+\cdots+x_n\mathbf{b}_n$. The scalars $(x_1,\dots,x_n)$ are the **coordinates** of $\mathbf{v}$ relative to $B$. This is very useful in problem solving—one can work with coordinates instead of vectors.
 
-[TODO]
+## 3. Linear Transformations and Matrices
+- **Linear Transformation:** A function $T: V \to W$ between vector spaces is *linear* if it preserves addition and scalar multiplication: $T(\mathbf{u}+\mathbf{v}) = T(\mathbf{u})+T(\mathbf{v})$ and $T(c\mathbf{u})=c\,T(\mathbf{u})$ for all $\mathbf{u},\mathbf{v}\in V$ and scalars $c$.
+- **Matrix Representation:** If $V$ and $W$ are finite-dimensional with bases, any linear $T:V\to W$ can be represented by a matrix. 
+- **Kernel and Image:** For $T: V\to W$, the **kernel** (or null space) is $\ker(T)=\{\mathbf{v}\in V: T(\mathbf{v})=\mathbf{0}\}$, and the **image** (or range) is $\mathrm{Im}(T)=\{T(\mathbf{v}): \mathbf{v}\in V\}\subseteq W$. Both $\ker(T)$ and $\mathrm{Im}(T)$ are subspaces of $V$ and $W$ respectively. $T$ is **injective** (one-to-one) if $\ker(T)=\{\mathbf{0}\}$, and **surjective** (onto) if $\mathrm{Im}(T)=W$. If $T$ is bijective, we call it an **isomorphism** (it has an inverse linear transform).  
+- **Operations:** The sum $T_1+T_2$ and composition $T_2\circ T_1$ of linear maps are linear. The composition corresponds to matrix multiplication: if $T_1: U\to V$ and $T_2: V\to W$ have matrices $A$ and $B$ (in chosen bases), then $T_2\circ T_1: U\to W$ has matrix $B\,A$. The identity map corresponds to the identity matrix $I$. 
+
+### Core Theorems and Properties  
+- **Matrix–Linear Map Correspondence:** Operations on linear transformations have their counterparts in matrix operations. For example, $T$ is invertible $\iff$ its matrix $A$ is invertible (nonsingular). The kernel of $T$ corresponds to the solution space of the homogeneous system $A\mathbf{x}=\mathbf{0}$, and the image of $T$ corresponds to the column space of $A$. Two linear transformations $T_1,T_2:V\to W$ are equal iff their matrices are equal (relative to fixed bases).  
+- **Change of Basis:** If we change the basis of $V$ and/or $W$, the matrix of $T$ changes by similarity or equivalent transformations. Specifically, if $P$ is the change-of-basis matrix for $V$ and $Q$ for $W$, then the new matrix for $T$ is $Q\,A\,P^{-1}$. In particular, if we change basis in $V$ only, $A$ is replaced by $Q^{-1}A\,Q$ (a similarity transformation). This notion is key in classifying matrices up to similarity (e.g. finding canonical forms).
+
+## 4. Rank, Nullity, and the Rank–Nullity Theorem
+- **Rank:** For a matrix or linear map, the **rank** is the dimension of its image. If $T: V\to W$ is linear, $\mathrm{rank}(T) = \dim(\mathrm{Im}\,T)$. Equivalently, for a matrix $A$, $\mathrm{rank}(A)$ is the number of pivots (leading 1’s) in its reduced row-echelon form – intuitively, the number of independent rows or columns. For example, the matrix $\begin{pmatrix}1 & 2\\ 2 & 4\end{pmatrix}$ has rank $1$ (second row is twice the first, so only one independent row/column).  
+- **Nullity:** The **nullity** of $T$ is $\dim(\ker T)$, the dimension of the solution space to $T(\mathbf{x})=\mathbf{0}$. For a matrix $A$, nullity is the number of free variables in the homogeneous system $A\mathbf{x}=0$. In the $2\times2$ example above, $\ker(A)$ is one-dimensional (all solutions are of form $(2,-1)t$), so nullity $=1$.  
+- **Rank–Nullity Theorem:** If $T: V\to W$ is linear and $V$ is finite-dimensional, then 
+$$\dim(V) = \mathrm{rank}(T) + \mathrm{nullity}(T).$$ 
+This fundamental theorem relates the number of independent columns of a matrix to the number of independent solutions of the homogeneous system . For an $m\times n$ matrix $A$, this says $n = \mathrm{rank}(A) + \mathrm{nullity}(A)$ (since $\dim(V)=n$ if $V\cong \mathbb{R}^n$ is the domain). This theorem underlies many proofs in linear algebra contests.
+
+### Core Theorems and Properties  
+- **Injectivity and Surjectivity:** Rank–nullity gives an important corollary: for a linear map $T: V\to W$ with $\dim(V)=\dim(W)=n$, if $\mathrm{rank}(T)=n$ then $\mathrm{nullity}(T)=0$ so $T$ is injective, and if $\mathrm{nullity}(T)=0$ then $\mathrm{rank}(T)=n$ so $T$ is surjective. Thus for linear maps between same-dimensional spaces, *injective $\iff$ surjective $\iff$ bijective (invertible)*. In matrix terms: an $n\times n$ matrix $A$ has full rank $n$ iff it is invertible (no nontrivial kernel).  
+- **Behavior under Composition:** If $T_1: U\to V$ and $T_2: V \to W$, then $\mathrm{rank}(T_2 \circ T_1) \le \min\{\mathrm{rank}(T_1),\,\mathrm{rank}(T_2)\}$. The image of $T_1$ gets mapped into $W$ by $T_2$, so the composite can’t have rank larger than either. Also $\mathrm{nullity}(T_2 \circ T_1) \ge \mathrm{nullity}(T_1)$ (any vector mapped to 0 by $T_1$ certainly maps to 0 under the composite). Equality conditions here relate to the images lining up nicely (contests sometimes use such observations in multi-step linear mappings problems).  
+- **Rank of Sums:** In general $\mathrm{rank}(A+B) \le \mathrm{rank}(A) + \mathrm{rank}(B)$ for matrices of the same size, by subadditivity of dimension (image of $A+B$ lies in sum of images of $A$ and $B$). There is no simple formula for rank of a sum, but inequalities can be useful (and occasionally show up as side conditions in contest problems).  
+- **Full Rank Systems:** A system of $m$ linear equations in $n$ unknowns (matrix $A$ is $m\times n$) has:
+  - **Unique solution** if $\mathrm{rank}(A)=n$ (full column rank, so nullity $0$) and it is consistent. In this case $n\le m$ and the system is exactly or over-determined but independent. 
+  - **Infinitely many solutions** if $\mathrm{rank}(A)<n$ and the system is consistent (free parameters equal nullity). 
+  - **No solution** if the system is inconsistent, which can be detected by an augmented matrix having higher rank than $A$ (Section 5 discusses this).  
+  In particular, if $m=n$, a unique solution exists iff $\det(A)\neq 0$ (invertible matrix).
+
+
 
 ## Problems
 
