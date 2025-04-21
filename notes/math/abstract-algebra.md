@@ -144,6 +144,20 @@ where $e$ is the identity element. Show that $gh = hg$. (As usual, $\lfloor x \r
 
 ### IMC Problems
 
+**IMC 2012 P3.** Given an integer $n > 1$, let $S_n$ be the group of permutations of the numbers $1, 2, \ldots, n$. Two players, A and B, play the following game. Taking turns, they select elements (one element at a time) from the group $S_n$. It is forbidden to select an element that has already been selected. The game ends when the selected elements generate the whole group $S_n$. The player who made the last move loses the game. The first move is made by A. Which player has a winning strategy?
+
+**IMC 2018 P2.** Does there exist a field such that its multiplicative group is isomorphic to its additive group? 
+
+**IMC 2020 P7.** Let $G$ be a group and $n \geq 2$ be an integer. Let $H_1$ and $H_2$ be two subgroups of $G$ that satisfy
+
+$$
+[G : H_1] = [G : H_2] = n \quad \text{and} \quad [G : (H_1 \cap H_2)] = n(n - 1).
+$$
+
+Prove that $H_1$ and $H_2$ are conjugate in $G$.
+
+(Here $[G : H]$ denotes the \textit{index} of the subgroup $H$, i.e., the number of distinct left cosets $xH$ of $H$ in $G$. The subgroups $H_1$ and $H_2$ are \textit{conjugate} if there exists an element $g \in G$ such that $g^{-1} H_1 g = H_2$.)
+
 **IMC 2021 P6.** For a prime number $p$, let $\mathrm{GL}_2(\mathbb{Z}/p\mathbb{Z})$ be the group of invertible $2 \times 2$ matrices of residues modulo $p$, and let $S_p$ be the symmetric group (the group of all permutations) on $p$ elements. Show that there is no injective group homomorphism
 
 $$
