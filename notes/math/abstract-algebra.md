@@ -52,6 +52,7 @@ Another important notion is a **group homomorphism**, a structure-preserving map
 
 ### Problem Solving Strategies
 * *Use Lagrange’s Theorem*: If a problem involves a finite group of known order, consider the possible orders of subgroups or elements. For example, if $|G|$ is prime, $G$ must be cyclic of that prime order. If an equation like $a^k = e$ is given, the order of $a$ divides $k$. This can restrict possibilities and simplify the problem.
+* *Use Group Homomorphisms.* Look for mappings between groups to reduce complexity. A homopmorphism $\phi: G \to H$ can reveal structure via its kernel and image. The First Isomorphism Theorem is particularly powerful for understanding quotient groups.
 * *Consider extreme or special elements*: The identity $e$ and inverses are often crucial. If an equation or condition is given for all group elements, try plugging in $a=e$ or $b=a^{-1}$ or such to glean information. For instance, if given a functional equation on $G$, substituting identity elements can simplify it.
 * *Look for invariants or actions*: To count or classify objects up to symmetry, consider group actions. Tools like the orbit-stabilizer theorem and Burnside’s Lemma help solve problems like counting cube colorings under rotation. This strategy, common in combinatorics, often involves symmetry groups.
 * *Direct algebraic manipulation*: Don’t forget to apply the basic axioms.
