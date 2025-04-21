@@ -55,4 +55,20 @@ Another important notion is a **group homomorphism**, a structure-preserving map
 * *Consider extreme or special elements*: The identity $e$ and inverses are often crucial. If an equation or condition is given for all group elements, try plugging in $a=e$ or $b=a^{-1}$ or such to glean information. For instance, if given a functional equation on $G$, substituting identity elements can simplify it.
 * *Look for invariants or actions*: To count or classify objects up to symmetry, consider group actions. Tools like the orbit-stabilizer theorem and Burnside’s Lemma help solve problems like counting cube colorings under rotation. This strategy, common in combinatorics, often involves symmetry groups.
 * *Direct algebraic manipulation*: Don’t forget to apply the basic axioms.
-* *Try small cases or constructing subgroups*: If a problem states a general claim, test it on small groups (like $\mathbb{Z}_n$ or $S_3$) to see what’s going on. Sometimes understanding the claim for simple examples gives insight into the general proof. If the problem asserts something must equal the identity, attempt to show it by considering the element’s powers or the subgroup it generates. 
+* *Try small cases or constructing subgroups*: If a problem states a general claim, test it on small groups (like $\mathbb{Z}_n$ or $S_3$) to see what’s going on. Sometimes understanding the claim for simple examples gives insight into the general proof. If the problem asserts something must equal the identity, attempt to show it by considering the element’s powers or the subgroup it generates.
+
+### Exercises
+1. Let $G$ be a finite group of order $n$. Show that for every integer $k$, either there is an element of order $k$ in $G$ or there is an element of order $\gcd(n,k)$ in $G$.
+
+### Sample Problems
+
+See [2017-8a.pdf](https://web.ma.utexas.edu/users/rusin/Putnam/2017/2017-8a.pdf)
+
+#### Putnam 1969 B2
+*Problem.* $G$ is a finite group with identity 1. Show that we cannot find two proper subgroups $A$ and $B$ (≠ ${1}$ or $G$) such that $A ∪ B = G$. Can we find three proper subroups $A$, $B$, $C$ such that $A \cup B \cup C = G$?
+*Solution.* See [psol698.html](https://prase.cz/kalva/putnam/psoln/psol698.html) and [2017-8a.pdf](https://web.ma.utexas.edu/users/rusin/Putnam/2017/2017-8a.pdf)
+
+#### Putnam 1989 B2
+*Problem.*  Let $S$ be a non-empty set with a binary operation (written like multiplication) such that: (1) it is associative; (2) $ab = ac$ implies $b = c$; (3) $ba = ca$ implies $b = c$; (4) for each element, the set of its powers is finite. Is $S$ necessarily a group? 
+*Solution.* See [psol898.html](https://prase.cz/kalva/putnam/psoln/psol898.html) and [2017-8a.pdf](https://web.ma.utexas.edu/users/rusin/Putnam/2017/2017-8a.pdf)
+
