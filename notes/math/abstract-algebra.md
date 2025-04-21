@@ -66,9 +66,11 @@ See [2017-8a.pdf](https://web.ma.utexas.edu/users/rusin/Putnam/2017/2017-8a.pdf)
 
 #### Putnam 1969 B2
 *Problem.* $G$ is a finite group with identity 1. Show that we cannot find two proper subgroups $A$ and $B$ (≠ ${1}$ or $G$) such that $A ∪ B = G$. Can we find three proper subroups $A$, $B$, $C$ such that $A \cup B \cup C = G$?
+
 *Solution.* See [psol698.html](https://prase.cz/kalva/putnam/psoln/psol698.html) and [2017-8a.pdf](https://web.ma.utexas.edu/users/rusin/Putnam/2017/2017-8a.pdf)
 
 #### Putnam 1989 B2
 *Problem.*  Let $S$ be a non-empty set with a binary operation (written like multiplication) such that: (1) it is associative; (2) $ab = ac$ implies $b = c$; (3) $ba = ca$ implies $b = c$; (4) for each element, the set of its powers is finite. Is $S$ necessarily a group? 
+
 *Solution.* See [psol898.html](https://prase.cz/kalva/putnam/psoln/psol898.html) and [2017-8a.pdf](https://web.ma.utexas.edu/users/rusin/Putnam/2017/2017-8a.pdf)
 
