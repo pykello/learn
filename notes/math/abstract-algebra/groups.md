@@ -10,9 +10,9 @@ Classic examples of groups include:
 * The integers under addition $(\mathbb{Z},+)$
 * The nonzero rationals under multiplication $(\mathbb{Q}^\times,\cdot)$
 * The symmetric group $S_n$ of permutations on $n$ letters (non-abelian for $n\ge 3$)
-* The *general linear group* $\mathrm{GL}(n,F)$ is the group of all invertible $n\times n$ matrices over a field $F$.
 * The *dihedral group* $D_{n}$ of order $2n$ is the group of symmetries (rotations and reflections) of a regular $n$-gon.
     * $D_n = \left\\{ R_0, R, R^2, \dots, R^{n-1}, F, FR, FR^2, \dots, FR^{n-1} \right\\}$
+* The *general linear group* $\mathrm{GL}(n,F)$ is the group of all invertible $n\times n$ matrices over a field $F$.
 * The *special linear group* $\mathrm{SL}(n,F)$ is the group of $n\times n$ matrices over $F$ with determinant $1$.
 
 Groups can be finite or infinite, abelian or non-abelian, but all share the above axioms.
