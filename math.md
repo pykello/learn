@@ -8,6 +8,7 @@
   * [Paul's Online Math Notes](https://tutorial.math.lamar.edu/)
   * [Neil Donaldson](https://www.math.uci.edu/~ndonalds/)
   * [Joel Feldman](https://personal.math.ubc.ca/~feldman/)
+  * [Thomas Church](https://math.stanford.edu/~church/)
   * [Andrew Lin](https://web.stanford.edu/~lindrew/notes.html)
   * [Hanbaek Lyu](https://hanbaeklyu.com/teaching/)
   * [Duc Vu](https://tducvu.github.io/notes/)
