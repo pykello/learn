@@ -13,7 +13,7 @@ Classic examples of groups include:
 * The group of $n\times n$ invertible matrices $GL_n(F)$ over a field $F$ under matrix multiplication​
 * The *general linear group* $\mathrm{GL}(n,F)$ is the group of all invertible $n\times n$ matrices over a field $F$.
 * The *dihedral group* $D_{n}$ of order $2n$ is the group of symmetries (rotations and reflections) of a regular $n$-gon.
-
+    * $D_n = \left\\{ R_0, R, R^2, \dots, R^{n-1}, F, FR, FR^2, \dots, FR^{n-1} \right\\}$
 
 Groups can be finite or infinite, abelian or non-abelian, but all share the above axioms.
 
