@@ -18,10 +18,10 @@ Classic examples of groups include:
 Groups can be finite or infinite, abelian or non-abelian, but all share the above axioms.
 
 #### Exercises
-Gallian, 10th Ed., Ch. 2:
-1. Prove $(ab)^2 = a^2b^2$ iff $ab = ba$.
-2. Let $G$ be a finite group and $n$ an odd positive integer. Show that the number of elements $x$ of $G$ such that $x^n = e$ is odd.
-3. Prove the number of nonidentity elements s.t. $x^5=e$ is a multiple of 4.
+1. (Gallian) Prove $(ab)^2 = a^2b^2$ iff $ab = ba$.
+2. (Gallian) Let $G$ be a finite group and $n$ an odd positive integer. Show that the number of elements $x$ of $G$ such that $x^n = e$ is odd.
+3. (Gallian) Prove the number of nonidentity elements s.t. $x^5=e$ is a multiple of 4.
+4. (Milnor) Show that a nonempty finite set with an associative binary operation satisfying the cancellation laws is a group.
 
 A **homomorphism** between two groups $(G, \cdot)$ and $(H, *)$ is a function $f : G \to H$ such that $f(x \cdot y) = f(x) * f(y)$ for all  $x, y \in G$.
 
