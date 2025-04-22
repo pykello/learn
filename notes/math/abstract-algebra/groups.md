@@ -11,6 +11,9 @@ Classic examples of groups include:
 * The nonzero rationals under multiplication $(\mathbb{Q}^\times,\cdot)$
 * The symmetric group $S_n$ of permutations on $n$ letters (non-abelian for $n\ge 3$)
 * The group of $n\times n$ invertible matrices $GL_n(F)$ over a field $F$ under matrix multiplication​
+* The *general linear group* $\mathrm{GL}(n,F)$ is the group of all invertible $n\times n$ matrices over a field $F$.
+* The *dihedral group* $D_{n}$ of order $2n$ is the group of symmetries (rotations and reflections) of a regular $n$-gon.
+
 
 Groups can be finite or infinite, abelian or non-abelian, but all share the above axioms.
 
