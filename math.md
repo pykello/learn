@@ -70,6 +70,7 @@
   * [UIUC 2024](https://nmd.web.illinois.edu/classes/2022/416/#notes)
   * [UIUC 2023](https://palbin.web.illinois.edu/Math416.Fall2023/Lectures.html)
 * Abstract Algebra
+  * [Stanford, Homework](https://math.stanford.edu/~vakil/04-210A/)
   * [Mathemaniac: Essence of Group Theory](https://www.youtube.com/playlist?list=PLDcSwjT2BF_VuNbn8HiHZKKy59SgnIAeO)
   * [Lie Algebras in Particle Physics](https://www.youtube.com/playlist?list=PLHA6eeiAqIiP3G2Vwm0cXXRXDrnWASouK)
   * [Harvard Abstract Algebra](https://www.youtube.com/playlist?list=PLelIK3uylPMGzHBuR3hLMHrYfMqWWsmx5)
