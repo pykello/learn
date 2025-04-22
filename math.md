@@ -10,6 +10,7 @@
   * [Joel Feldman](https://personal.math.ubc.ca/~feldman/)
   * [Thomas Church](https://math.stanford.edu/~church/)
   * [Andrew Lin](https://web.stanford.edu/~lindrew/notes.html)
+  * [Ben Lynn](https://crypto.stanford.edu/pbc/notes/)
   * [Hanbaek Lyu](https://hanbaeklyu.com/teaching/)
   * [Duc Vu](https://tducvu.github.io/notes/)
   * [Cambridge Notes](https://dec41.user.srcf.net/notes/)
