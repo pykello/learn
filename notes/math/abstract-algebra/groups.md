@@ -50,6 +50,8 @@ A **homomorphism** between two groups $(G, \cdot)$ and $(H, *)$ is a function $f
    - Prove: If $G$ is an Abelian group, then $H = {x \in G | x^2 = e}$ is a subgroup of $G$.
    - Prove: If $G$ is an Abelian group, then $H = {x^2 | x \in G}$ is a subgroup of $G$.
 2. Prove: Let $H$ be a nonempty subset of group $G$. If $ab \in H$ whenever $a, b \in H$, and $a^{-1} \in H$ whenever $a \in H$, then $H$ is a subgroup of $G$.
+   - Prove: If $G$ is an Abelian group, then $H = {x \in G | |x| \text{is finite}} is a subroup of $G$.
+   - Prove: If $G$ is an Abelian group and $H, K$ are subroups of $G$, then $HK = {hk | h \in H, k \in K}$ is a subroup of $G$.
 
 ### Key Theorems and Concepts
 
