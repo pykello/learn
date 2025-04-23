@@ -23,8 +23,6 @@ Groups can be finite or infinite, abelian or non-abelian, but all share the abov
 3. (Gallian) Prove the number of nonidentity elements s.t. $x^5=e$ is a multiple of 4.
 4. (Milnor) Show that a nonempty finite set with an associative binary operation satisfying the cancellation laws is a group.
 
-A **homomorphism** between two groups $(G, \cdot)$ and $(H, *)$ is a function $f : G \to H$ such that $f(x \cdot y) = f(x) * f(y)$ for all  $x, y \in G$.
-
 A **subgroup** of a group $G$ is a subset $H \subseteq G$ that is itself a group under the same operation as $G$.
 
 A **left coset** of a subgroup $H$ in $G$ is a set of the form $gH = \{gh \mid h \in H\}$, for some $g \in G$. The **set of left cosets** of a subgroup $H$ in a group $G$ is $\{gH \mid g \in G\}$,
@@ -44,6 +42,14 @@ $$
 $$
 
 This partitions $\mathbb{Z}$ into three disjoint classes modulo 3.
+
+A **homomorphism** between two groups $(G, \cdot)$ and $(H, *)$ is a function $f : G \to H$ such that $f(x \cdot y) = f(x) * f(y)$ for all  $x, y \in G$.
+
+#### Exercises
+1. Prove: Let $H$ be a nonempty subset of group $G$. If $ab^{-1} \in H$ whenever $a, b \in H$, then $H$ is a subroup of $G$.
+   - Prove: If $G$ is an Abelian group, then $H = {x \in G | x^2 = e}$ is a subgroup of $G$.
+   - Prove: If $G$ is an Abelian group, then $H = {x^2 | x \in G}$ is a subgroup of $G$.
+2. Prove: Let $H$ be a nonempty subset of group $G$. If $ab \in H$ whenever $a, b \in H$, and $a^{-1} \in H$ whenever $a \in H$, then $H$ is a subgroup of $G$.
 
 ### Key Theorems and Concepts
 
