@@ -67,6 +67,7 @@ A **homomorphism** between two groups $(G, \cdot)$ and $(H, *)$ is a function $f
 3. Prove that the center of a group $G$ is a subgroup of $G$. Do the same for centralizer of $a \in G$.
 4. Prove $|a| = |a^{-1}|$.
 5. For any $x, a \in G$ prove $|xax^{-1}| = |a|$.
+6. Prove that if $a$ is the only element of order $2$ in a group, then $a$ lies in the center of the group.
 
 ### Key Theorems and Concepts
 
