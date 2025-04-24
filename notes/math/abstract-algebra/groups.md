@@ -46,13 +46,13 @@ This partitions $\mathbb{Z}$ into three disjoint classes modulo 3.
 The **center of a group** $G$, denoted $Z(G)$, is the set of elements that commute with all elements of $G$:
 
 $$
-Z(G) = \{ z \in G \mid \forall g \in G, \; zg = gz \}
+Z(G) = \\{ z \in G \mid \forall g \in G, \; zg = gz \\}
 $$
 
 The **centralizer of an element** $a \in G$, denoted $C_G(a)$, is the set of elements in $G$ that commute with $a$:
 
 $$
-C_G(a) = \{ g \in G \mid ga = ag \}
+C_G(a) = \\{ g \in G \mid ga = ag \\}
 $$
 
 A **homomorphism** between two groups $(G, \cdot)$ and $(H, *)$ is a function $f : G \to H$ such that $f(x \cdot y) = f(x) * f(y)$ for all  $x, y \in G$.
