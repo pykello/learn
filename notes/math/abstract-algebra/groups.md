@@ -55,9 +55,6 @@ $$
 C_G(a) = \{ g \in G \mid ga = ag \}
 $$
 
-Exercises:
-1. Prove that the center of a group $G$ is a subgroup of $G$. Do the same for centralizer of $a \in G$.
-
 A **homomorphism** between two groups $(G, \cdot)$ and $(H, *)$ is a function $f : G \to H$ such that $f(x \cdot y) = f(x) * f(y)$ for all  $x, y \in G$.
 
 #### Exercises
@@ -67,6 +64,7 @@ A **homomorphism** between two groups $(G, \cdot)$ and $(H, *)$ is a function $f
 2. Prove: Let $H$ be a nonempty subset of group $G$. If $ab \in H$ whenever $a, b \in H$, and $a^{-1} \in H$ whenever $a \in H$, then $H$ is a subgroup of $G$.
    - Prove: If $G$ is an Abelian group, then $H = \left\\{x \in G | |x| \text{is finite}\right\\}$ is a subroup of $G$.
    - Prove: If $G$ is an Abelian group and $H, K$ are subroups of $G$, then $HK = \left\\{hk | h \in H, k \in K\right\\}$ is a subroup of $G$.
+3. Prove that the center of a group $G$ is a subgroup of $G$. Do the same for centralizer of $a \in G$.
 
 ### Key Theorems and Concepts
 
