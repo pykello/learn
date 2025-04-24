@@ -65,6 +65,7 @@ A **homomorphism** between two groups $(G, \cdot)$ and $(H, *)$ is a function $f
    - Prove: If $G$ is an Abelian group, then $H = \left\\{x \in G | |x| \text{is finite}\right\\}$ is a subroup of $G$.
    - Prove: If $G$ is an Abelian group and $H, K$ are subroups of $G$, then $HK = \left\\{hk | h \in H, k \in K\right\\}$ is a subroup of $G$.
 3. Prove that the center of a group $G$ is a subgroup of $G$. Do the same for centralizer of $a \in G$.
+4. Prove $|a| = |a^{-1}|$.
 
 ### Key Theorems and Concepts
 
