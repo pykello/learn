@@ -69,6 +69,7 @@ A **homomorphism** between two groups $(G, \cdot)$ and $(H, *)$ is a function $f
 5. For any $x, a \in G$ prove $|xax^{-1}| = |a|$.
 6. Prove that if $a$ is the only element of order $2$ in a group, then $a$ lies in the center of the group.
 7. Prove that if $a$ is the only element with order 2 in $G$, show $a$ is in the center of $G$.
+8. if $A \in GL(2,\mathbb{R})$ and $|A|$ is finite, what can you say about $\text{det} A$?
 
 ### Key Theorems and Concepts
 
