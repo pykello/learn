@@ -14,6 +14,7 @@
   * [Hanbaek Lyu](https://hanbaeklyu.com/teaching/)
   * [Duc Vu](https://tducvu.github.io/notes/)
   * [Cambridge Notes](https://dec41.user.srcf.net/notes/)
+  * [Cambridge Example Sheets](https://www.damtp.cam.ac.uk/user/examples/)
   * [Tripos-specific resources](https://www.maths.cam.ac.uk/undergrad/studentreps/tripos-specific-resources)
 * Calculus
   * [MIT 18.01 Single Variable Calculus, Fall 2006](https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1) ([material for 2005](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2005/))
