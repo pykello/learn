@@ -20,6 +20,7 @@
 * Calculus
   * [MIT 18.01 Single Variable Calculus, Fall 2006](https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1) ([material for 2005](https://ocw.mit.edu/courses/18-01-single-variable-calculus-fall-2005/))
   * [MIT 18.02 Multivariable Calculus, Fall 2007](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38)
+  * [JHU Honors Multivariable Calculus](https://math.jhu.edu/~brown/courses/s19/Syllabus211.html)
   * [edx: Calculus Applied!](https://www.edx.org/course/calculus-applied)
   * [coursera: Calculus for Machine Learning and Data Science](https://www.coursera.org/learn/machine-learning-calculus)
   * [Purdue 324](https://www.math.purdue.edu/~neptamin/324Au17/Notes/indexold.html)
