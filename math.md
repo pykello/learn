@@ -25,6 +25,7 @@
   * [coursera: Calculus for Machine Learning and Data Science](https://www.coursera.org/learn/machine-learning-calculus)
   * [Purdue 324](https://www.math.purdue.edu/~neptamin/324Au17/Notes/indexold.html)
   * [Toronto Basic Skills](https://www.math.utoronto.ca/courses/mat237y1/20189/notes/S.Basic.html)
+  * [Advanced Calculus](https://www.youtube.com/playlist?list=PLJ6garKOlK2pKqzUa7KSzYTfyBLc-wh2V)
 * Differential Equations
   * [edx: Introduction to Differential Equations](https://www.edx.org/course/introduction-to-differential-equations-2)
   * [3Blue1Brown: Differential equations](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6)
