@@ -14,6 +14,7 @@
   * [Hanbaek Lyu](https://hanbaeklyu.com/teaching/)
   * [Duc Vu](https://tducvu.github.io/notes/)
   * [Cambridge Notes](https://dec41.user.srcf.net/notes/)
+  * [Cambridge Notes 2](https://thirdsgames.co.uk/maths.html)
   * [Cambridge Example Sheets](https://www.damtp.cam.ac.uk/user/examples/)
   * [Tripos-specific resources](https://www.maths.cam.ac.uk/undergrad/studentreps/tripos-specific-resources)
 * Calculus
