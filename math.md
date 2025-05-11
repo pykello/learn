@@ -13,6 +13,7 @@
   * [Ben Lynn](https://crypto.stanford.edu/pbc/notes/)
   * [Hanbaek Lyu](https://hanbaeklyu.com/teaching/)
   * [Duc Vu](https://tducvu.github.io/notes/)
+  * [Ryan Saab](https://mathweb.ucsd.edu/~rsaab/teaching.html)
   * [Cambridge Notes](https://dec41.user.srcf.net/notes/)
   * [Cambridge Notes 2](https://thirdsgames.co.uk/maths.html)
   * [Cambridge Example Sheets](https://www.damtp.cam.ac.uk/user/examples/)
