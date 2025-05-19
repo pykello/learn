@@ -14,6 +14,7 @@
   * [Hanbaek Lyu](https://hanbaeklyu.com/teaching/)
   * [Duc Vu](https://tducvu.github.io/notes/)
   * [Ryan Saab](https://mathweb.ucsd.edu/~rsaab/teaching.html)
+  * [David Dalpiaz, UIUC](https://daviddalpiaz.org/)
   * [scg479, northwestern](https://sites.math.northwestern.edu/scg479/teaching.html)
   * [Cambridge Notes](https://dec41.user.srcf.net/notes/)
   * [Cambridge Notes 2](https://thirdsgames.co.uk/maths.html)
