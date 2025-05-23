@@ -78,6 +78,7 @@
   * [Duke 2024](https://services.math.duke.edu/~jdr/2324s-218/)
   * [UIUC 2024](https://nmd.web.illinois.edu/classes/2022/416/#notes)
   * [UIUC 2023](https://palbin.web.illinois.edu/Math416.Fall2023/Lectures.html)
+  * [Applied Linear Algebra](https://www.youtube.com/playlist?list=PLZcI2rZdDGQrb4VjOoMm2-o7Fu_mvij8F)
 * Abstract Algebra
   * [Stanford, Homework](https://math.stanford.edu/~vakil/04-210A/)
   * [Mathemaniac: Essence of Group Theory](https://www.youtube.com/playlist?list=PLDcSwjT2BF_VuNbn8HiHZKKy59SgnIAeO)
